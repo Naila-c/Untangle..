@@ -1,0 +1,154 @@
+
+  h1{
+    color:#3FA796;
+    padding: auto;
+     font-family: 'Brush Script MT',cursive;
+     margin-left: 4%;
+  }
+
+  h6{
+    color:white;
+    text-align: center;
+  font-family:'Sacramento', cursive;
+  }
+
+
+  .navbar{
+  	background-color:#3FA796;
+    margin-bottom: 0%;
+  }
+
+  .topnav{
+    background-color:#AEDBCE;
+  }
+  h2{
+    color:#3FA796;
+    margin-top: 4%;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom:3rem;
+  }
+
+.greenuntangle{
+  width: 40%;
+  margin-left:30%;
+  margin-top: 2%;
+  margin-bottom:1%;
+}
+
+  .learnmoree{
+    background-color: #AEDBCE;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+  }
+  .topcontainer2{
+	background-color:white;
+  text-align: justify;
+  padding-left:2%;
+  margin-top: 7%;
+  margin-bottom: 5%;
+}
+
+  #myCarousel{
+    background-color:#AEDBCE;
+    text-align: center;
+    padding: 7% 15%;
+  }
+.carousel-heading1{
+  text-align: center;
+
+}
+
+  #carousel-heading{
+    color: #777;
+  }
+  .carousel-item{
+    height:500px;
+    width:500px;
+    text-align: center;
+    padding: 5% 5%;
+    margin: 5% 5% 5% 20%;
+    line-height: 1.5rem;
+  }
+
+  .carouselimages{
+    height:200px;
+    width:200px;
+    border-radius: 100px;
+
+  }
+  .explaination{
+    font-family:"Monseratt-black";
+  font-style: italic;
+  color:#3FA796;
+  }
+  .btn-primary:hover{
+    color: black;
+  }
+.search-therapist{
+  text-align: center;
+  margin-top:2%;
+  margin-bottom: 20%;
+  background-color: turquoise-blue;
+  padding-top: 7%;
+}
+
+.about{
+  margin-left: 70%;
+  border: auto;
+  color: pink;
+}
+
+.searchbar{
+  color: pink;
+}
+
+.panicattack{
+  width: 30%;
+
+}
+
+.learnmoree{
+  margin-left: 20px;
+  line-height: 2;
+
+}
+.about{
+  margin-left: 80%;
+  padding-right: 20px;
+}
+.contact{
+  padding-right: 20px;
+}
+.btn {
+  background: #3FA796;
+  background-image: -webkit-linear-gradient(top, #AEDBCE, #3FA796);
+  background-image: -moz-linear-gradient(top, #AEDBCE, #3FA796);
+  background-image: -ms-linear-gradient(top, #AEDBCE, #3FA796);
+  background-image: -o-linear-gradient(top, #AEDBCE, #3FA796);
+  background-image: linear-gradient(to bottom, #AEDBCE, #3FA796);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #e6e6e6;
+  font-size: 15x;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
